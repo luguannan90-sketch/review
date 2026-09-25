@@ -1,0 +1,21 @@
+{
+  "seed": 42,
+  "experiment": "group_validation_flip",
+  "model": "ConcreteCrackCNN",
+  "loss": "weighted_cross_entropy",
+  "augmentation": [
+    "RandomHorizontalFlip",
+    "RandomVerticalFlip"
+  ],
+  "quick_run": false,
+  "epoch_limit": 30,
+  "epochs_ran": 30,
+  "early_stopping_patience": 5,
+  "batch_size": 32,
+  "learning_rate": 0.0001,
+  "device": "cuda",
+  "class_weights": [
+    0.5863783955574036,
+    3.394242763519287
+  ]
+}

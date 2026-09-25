@@ -1,0 +1,46 @@
+{
+  "experiment": "weighted_loss",
+  "quick_run": false,
+  "epochs": 10,
+  "batch_size": 32,
+  "learning_rate": 0.001,
+  "train_losses": [
+    0.7142933712039196,
+    0.6398851209683037,
+    0.6315585206931745,
+    0.574227383159136,
+    0.5334901890144662,
+    0.4636918186371875,
+    0.3820827164350541,
+    0.2783755063136139,
+    0.17751519892697043,
+    0.11299398393335232
+  ],
+  "test_metrics_cracked_positive": {
+    "accuracy": 0.4600969836442837,
+    "balanced_accuracy": 0.5016094552397992,
+    "precision": 0.10773357174787662,
+    "recall": 0.5544478527607362,
+    "specificity": 0.44877105771886217,
+    "f1": 0.18041172800998126,
+    "true_positive": 1446,
+    "false_positive": 11976,
+    "false_negative": 1162,
+    "true_negative": 9750,
+    "total": 24334
+  },
+  "elapsed_seconds": 282.2759136999957,
+  "device": "cuda",
+  "train_full_counts": {
+    "uncracked": 11595,
+    "cracked": 2025
+  },
+  "test_full_counts": {
+    "uncracked": 21726,
+    "cracked": 2608
+  },
+  "class_weights": [
+    0.5873221158981323,
+    3.3629629611968994
+  ]
+}

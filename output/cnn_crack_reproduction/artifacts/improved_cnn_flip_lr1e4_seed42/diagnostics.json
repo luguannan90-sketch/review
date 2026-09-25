@@ -1,0 +1,57 @@
+{
+  "best_epoch": 19,
+  "train": {
+    "loss": 0.5594877021751347,
+    "metrics": {
+      "accuracy": 0.8530604719764012,
+      "balanced_accuracy": 0.6969323816933329,
+      "precision": 0.5013192612137203,
+      "recall": 0.4755944931163955,
+      "specificity": 0.9182702702702703,
+      "f1": 0.48811817597944757,
+      "true_positive": 760,
+      "false_positive": 756,
+      "false_negative": 838,
+      "true_negative": 8494,
+      "total": 10848
+    },
+    "cracked_probability_mean": 0.32811535172982387,
+    "cracked_probability_std": 0.1892238912101513,
+    "cracked_probability_quantiles": [
+      3.491050781789795e-10,
+      0.20507025346159935,
+      0.29469895362854004,
+      0.4123145788908005,
+      0.9993870258331299
+    ],
+    "actual_uncracked_probability_mean": 0.29222289662322826,
+    "actual_cracked_probability_mean": 0.5358783115145607
+  },
+  "validation": {
+    "loss": 0.5266054742086752,
+    "metrics": {
+      "accuracy": 0.8603896103896104,
+      "balanced_accuracy": 0.7335978188681883,
+      "precision": 0.5465116279069767,
+      "recall": 0.550351288056206,
+      "specificity": 0.9168443496801706,
+      "f1": 0.5484247374562427,
+      "true_positive": 235,
+      "false_positive": 195,
+      "false_negative": 192,
+      "true_negative": 2150,
+      "total": 2772
+    },
+    "cracked_probability_mean": 0.34018445678913645,
+    "cracked_probability_std": 0.19620380092064904,
+    "cracked_probability_quantiles": [
+      8.737704781935918e-09,
+      0.21129439026117325,
+      0.2951524555683136,
+      0.41783682256937027,
+      0.9987698197364807
+    ],
+    "actual_uncracked_probability_mean": 0.2962021493351463,
+    "actual_cracked_probability_mean": 0.5817266370692461
+  }
+}

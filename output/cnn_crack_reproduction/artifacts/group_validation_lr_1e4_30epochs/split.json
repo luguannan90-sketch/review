@@ -1,0 +1,17 @@
+{
+  "train_count": 10848,
+  "validation_count": 2772,
+  "test_count": 24334,
+  "train_labels": {
+    "uncracked": 9250,
+    "cracked": 1598
+  },
+  "validation_labels": {
+    "uncracked": 2345,
+    "cracked": 427
+  },
+  "test_labels": {
+    "uncracked": 21726,
+    "cracked": 2608
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "experiment": "improved_cnn_flip_lr1e4_seed42",
+  "model": "ImprovedCrackCNN",
+  "model_kwargs": {
+    "dropout": 0.3
+  },
+  "seed": 42,
+  "split_seed": 42,
+  "learning_rate": 0.0001,
+  "batch_size": 32,
+  "epoch_limit": 30,
+  "early_stopping_patience": 5,
+  "augmentation": [
+    "horizontal_flip",
+    "vertical_flip"
+  ],
+  "image_size": [
+    224,
+    224
+  ],
+  "normalization": {
+    "mean": [
+      0.485,
+      0.456,
+      0.406
+    ],
+    "std": [
+      0.229,
+      0.224,
+      0.225
+    ]
+  },
+  "class_names": [
+    "uncracked",
+    "cracked"
+  ],
+  "class_weights": [
+    0.5863783955574036,
+    3.394242763519287
+  ],
+  "torch_version": "2.11.0+cu128",
+  "device": "cuda",
+  "parameter_count": 89426,
+  "epochs_ran": 24
+}

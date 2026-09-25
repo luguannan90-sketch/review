@@ -1,0 +1,13 @@
+{
+  "status": "passed",
+  "baseline_parameters": 12850530,
+  "improved_parameters": 89426,
+  "reduction_percent": 99.30410652323289,
+  "checks": [
+    "notebook format and code syntax",
+    "original group split",
+    "finite backward gradients",
+    "improved checkpoint roundtrip",
+    "legacy checkpoint loading and forward pass"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "false_positive_count": 248,
+  "false_negative_count": 188,
+  "false_positive_examples": [
+    "C:\\Users\\72758\\Desktop\\科研\\output\\cnn_crack_reproduction\\SDNET2018\\SDNET2018\\train\\UD\\7010-109.jpg",
+    "C:\\Users\\72758\\Desktop\\科研\\output\\cnn_crack_reproduction\\SDNET2018\\SDNET2018\\train\\UD\\7010-118.jpg",
+    "C:\\Users\\72758\\Desktop\\科研\\output\\cnn_crack_reproduction\\SDNET2018\\SDNET2018\\train\\UD\\7010-127.jpg",
+    "C:\\Users\\72758\\Desktop\\科研\\output\\cnn_crack_reproduction\\SDNET2018\\SDNET2018\\train\\UD\\7010-133.jpg",
+    "C:\\Users\\72758\\Desktop\\科研\\output\\cnn_crack_reproduction\\SDNET2018\\SDNET2018\\train\\UD\\7010-134.jpg",
+    "C:\\Users\\72758\\Desktop\\科研\\output\\cnn_crack_reproduction\\SDNET2018\\SDNET2018\\train\\UD\\7010-137.jpg",
+    "C:\\Users\\72758\\Desktop\\科研\\output\\cnn_crack_reproduction\\SDNET2018\\SDNET2018\\train\\UD\\7010-150.jpg",
+    "C:\\Users\\72758\\Desktop\\科研\\output\\cnn_crack_reproduction\\SDNET2018\\SDNET2018\\train\\UD\\7010-152.jpg",
+    "C:\\Users\\72758\\Desktop\\科研\\output\\cnn_crack_reproduction\\SDNET2018\\SDNET2018\\train\\UD\\7010-163.jpg",
+    "C:\\Users\\72758\\Desktop\\科研\\output\\cnn_crack_reproduction\\SDNET2018\\SDNET2018\\train\\UD\\7010-168.jpg",
+    "C:\\Users\\72758\\Desktop\\科研\\output\\cnn_crack_reproduction\\SDNET2018\\SDNET2018\\train\\UD\\7010-172.jpg",
+    "C:\\Users\\72758\\Desktop\\科研\\output\\cnn_crack_reproduction\\SDNET2018\\SDNET2018\\train\\UD\\7010-179.jpg"
+  ],
+  "false_negative_examples": [
+    "C:\\Users\\72758\\Desktop\\科研\\output\\cnn_crack_reproduction\\SDNET2018\\SDNET2018\\train\\CD\\7010-108.jpg",
+    "C:\\Users\\72758\\Desktop\\科研\\output\\cnn_crack_reproduction\\SDNET2018\\SDNET2018\\train\\CD\\7010-113.jpg",
+    "C:\\Users\\72758\\Desktop\\科研\\output\\cnn_crack_reproduction\\SDNET2018\\SDNET2018\\train\\CD\\7010-117.jpg",
+    "C:\\Users\\72758\\Desktop\\科研\\output\\cnn_crack_reproduction\\SDNET2018\\SDNET2018\\train\\CD\\7010-121.jpg",
+    "C:\\Users\\72758\\Desktop\\科研\\output\\cnn_crack_reproduction\\SDNET2018\\SDNET2018\\train\\CD\\7010-122.jpg",
+    "C:\\Users\\72758\\Desktop\\科研\\output\\cnn_crack_reproduction\\SDNET2018\\SDNET2018\\train\\CD\\7010-123.jpg",
+    "C:\\Users\\72758\\Desktop\\科研\\output\\cnn_crack_reproduction\\SDNET2018\\SDNET2018\\train\\CD\\7010-130.jpg",
+    "C:\\Users\\72758\\Desktop\\科研\\output\\cnn_crack_reproduction\\SDNET2018\\SDNET2018\\train\\CD\\7010-131.jpg",
+    "C:\\Users\\72758\\Desktop\\科研\\output\\cnn_crack_reproduction\\SDNET2018\\SDNET2018\\train\\CD\\7010-148.jpg",
+    "C:\\Users\\72758\\Desktop\\科研\\output\\cnn_crack_reproduction\\SDNET2018\\SDNET2018\\train\\CD\\7010-164.jpg",
+    "C:\\Users\\72758\\Desktop\\科研\\output\\cnn_crack_reproduction\\SDNET2018\\SDNET2018\\train\\CD\\7010-166.jpg",
+    "C:\\Users\\72758\\Desktop\\科研\\output\\cnn_crack_reproduction\\SDNET2018\\SDNET2018\\train\\CD\\7010-171.jpg"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "experiment": "group_validation",
+  "model": "ConcreteCrackCNN",
+  "loss": "weighted_cross_entropy",
+  "quick_run": false,
+  "epochs": 10,
+  "batch_size": 32,
+  "learning_rate": 0.001,
+  "device": "cuda",
+  "class_weights": [
+    0.5863783955574036,
+    3.394242763519287
+  ]
+}

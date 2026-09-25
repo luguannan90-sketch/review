@@ -1,0 +1,41 @@
+{
+  "quick_run": false,
+  "epochs": 10,
+  "batch_size": 32,
+  "learning_rate": 0.001,
+  "train_losses": [
+    0.41853477078284457,
+    0.3647356932816651,
+    0.3394420963795112,
+    0.30302153909010504,
+    0.25237768132047195,
+    0.19761912450369254,
+    0.1408702136791298,
+    0.11577005339611514,
+    0.0852240893274913,
+    0.07514812466043524
+  ],
+  "test_metrics_cracked_positive": {
+    "accuracy": 0.8421550094517959,
+    "balanced_accuracy": 0.5153181685848682,
+    "precision": 0.1479154768703598,
+    "recall": 0.09930981595092024,
+    "specificity": 0.9313265212188162,
+    "f1": 0.11883459509061711,
+    "true_positive": 259,
+    "false_positive": 1492,
+    "false_negative": 2349,
+    "true_negative": 20234,
+    "total": 24334
+  },
+  "elapsed_seconds": 331.82340529999783,
+  "device": "cuda",
+  "train_full_counts": {
+    "uncracked": 11595,
+    "cracked": 2025
+  },
+  "test_full_counts": {
+    "uncracked": 21726,
+    "cracked": 2608
+  }
+}

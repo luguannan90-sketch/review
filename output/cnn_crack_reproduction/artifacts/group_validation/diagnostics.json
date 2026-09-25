@@ -1,0 +1,43 @@
+{
+  "small_sample_results": [
+    {
+      "repetition": 1,
+      "loss": 0.001697996980510652,
+      "precision": 1.0,
+      "recall": 1.0,
+      "specificity": 1.0,
+      "f1": 1.0,
+      "balanced_accuracy": 1.0,
+      "true_positive": 16,
+      "false_positive": 0,
+      "false_negative": 0,
+      "true_negative": 16
+    },
+    {
+      "repetition": 2,
+      "loss": 0.01948591321706772,
+      "precision": 1.0,
+      "recall": 1.0,
+      "specificity": 1.0,
+      "f1": 1.0,
+      "balanced_accuracy": 1.0,
+      "true_positive": 16,
+      "false_positive": 0,
+      "false_negative": 0,
+      "true_negative": 16
+    },
+    {
+      "repetition": 3,
+      "loss": 0.001886906917206943,
+      "precision": 1.0,
+      "recall": 1.0,
+      "specificity": 1.0,
+      "f1": 1.0,
+      "balanced_accuracy": 1.0,
+      "true_positive": 16,
+      "false_positive": 0,
+      "false_negative": 0,
+      "true_negative": 16
+    }
+  ]
+}
