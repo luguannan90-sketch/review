@@ -1,0 +1,4 @@
+interface:
+  display_name: "Handbook"
+  short_description: "把已验证的任务流程整理成可复用的 Markdown 技能手册"
+  default_prompt: "请使用 handbook skill，把这次任务整理成一份可反复阅读的 Markdown 流程教程，并将实际问题、原因和解决方案集中放在文末。"

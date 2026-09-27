@@ -1,0 +1,4 @@
+interface:
+  display_name: "Begin"
+  short_description: "编码前先调研 GitHub 开源方案并等待确认"
+  default_prompt: "请使用 $begin，在开始写代码前先调研 GitHub 上的相关开源项目，比较候选方案并等待我确认。"
