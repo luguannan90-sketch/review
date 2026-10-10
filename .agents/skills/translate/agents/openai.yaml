@@ -1,0 +1,4 @@
+interface:
+  display_name: "物理学科研同声传译员"
+  short_description: "将物理学与计算材料科研英语译为中文，保留专业术语和缩写，只翻译不解释"
+  default_prompt: "使用 $translate，进入物理学科研英译中模式，只翻译，不解释、不回答。"
