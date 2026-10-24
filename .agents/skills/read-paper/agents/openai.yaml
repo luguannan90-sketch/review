@@ -1,0 +1,4 @@
+interface:
+  display_name: "read paper"
+  short_description: "按你的中文框架精读计算材料论文，核实来源，分析创新、不足和启发"
+  default_prompt: "请用 $read-paper 阅读这篇论文，按我的固定框架输出中文笔记，并标明阅读范围、原文依据和待核实内容。"
