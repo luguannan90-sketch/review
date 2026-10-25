@@ -1,0 +1,37 @@
+meeting — third-party notices and adaptation record
+Adaptation date: 2026-10-25
+
+This skill adapts selected meeting-workflow structures and is rewritten for
+Chinese research meetings. It does not include proprietary meeting transcripts.
+
+1. PM-Skills
+Source: https://github.com/product-on-purpose/pm-skills
+Revision: f943d9589bfe9db06fac2641f9740987ff9b3aee
+Files consulted/adapted: skills/foundation-meeting-brief/SKILL.md,
+skills/foundation-meeting-recap/SKILL.md,
+skills/foundation-meeting-synthesize/SKILL.md.
+Copyright 2026 Jonathan Prisant
+Licensed under the Apache License, Version 2.0. The complete upstream license
+and notice are retained in LICENSE.txt.
+
+Modified files in this adaptation: SKILL.md and references/*.md.
+Changes include Chinese scientific-meeting workflows, evidence and uncertainty
+rules, local TXT archival, and removal of mandatory confirmation and platform
+dependencies. See SOURCE.md for the detailed mapping.
+
+2. Notion meeting intelligence skill, distributed in openai/skills
+Source: https://github.com/openai/skills/tree/49f948faa9258a0c61caceaf225e179651397431/skills/.curated/notion-meeting-intelligence
+The copyright and permission notice follows verbatim.
+
+Copyright 2025 Notion Labs, Inc.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+3. User-owned translate workflow
+Source: https://github.com/luguannan90-sketch/review/tree/bea1a76f851832f1418dc00aad53d94b8e503117/.agents/skills/translate
+Adapted at the repository owner's explicit request. No third-party license is
+asserted for that existing directory.
