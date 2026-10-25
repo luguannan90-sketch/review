@@ -1,0 +1,4 @@
+interface:
+  display_name: "write · 材料论文写作"
+  short_description: "面向计算材料与铁电介电研究，减少论文套话，保留数据、术语、引文和证据边界"
+  default_prompt: "请用 $write 润色这段材料研究论文，减少 AI 套话和翻译腔，保留数据、术语、引文和结论的确定程度，并单列影响结论的待核实项。"
