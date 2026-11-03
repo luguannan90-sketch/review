@@ -1,0 +1,5 @@
+interface:
+  display_name: "resume 简历润色"
+  short_description: "按目标岗位改写简历，突出科研实践、数据能力与个人贡献，适配跨专业实习申请"
+  default_prompt: "使用 $resume，结合目标岗位和我的实际经历润色简历，突出相关能力与成果，并给出可直接使用的修改稿。"
+
